@@ -1,4 +1,8 @@
-# cars_prices
-Take Home 1 - Modelización 
+# Take Home 1 (Precios de coches)
 
-Lalala probando
+
+## Introducción y análisis descriptivo
+## Buscando un buen modelo
+## Quitando complejidad (Criterio AIC, $R^{2}$ ajustado)
+## Transformando los datos
+## Cuestiones
