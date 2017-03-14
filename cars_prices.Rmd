@@ -2,6 +2,13 @@
 
 
 ## Introducción y análisis descriptivo
+```{r echo=FALSE}
+ # Aqui va el código R
+ # Y tambien imágenes
+ a<-rnorm(20, mean=0, sd=1)
+ b<-rnorm(20, mean=0, sd=1)
+ plot(a,b)
+```
 ## Buscando un buen modelo
 ## Quitando complejidad (Criterio AIC, $R^{2}$ ajustado)
 ## Transformando los datos
