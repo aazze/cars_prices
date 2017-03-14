@@ -6,7 +6,7 @@
  # Aqui va el código R
  # Y tambien imágenes
  a<-rnorm(20, mean=0, sd=1)
- b<-a<-rnorm(20, mean=0, sd=1)
+ b<-rnorm(20, mean=0, sd=1)
  plot(a,b)
 ```
 ## Buscando un buen modelo
