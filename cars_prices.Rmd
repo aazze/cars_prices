@@ -2,6 +2,9 @@
 
 
 ## Introducción y análisis descriptivo
+\\{r}
+# Aqui va el código R
+\\
 ## Buscando un buen modelo
 ## Quitando complejidad (Criterio AIC, $R^{2}$ ajustado)
 ## Transformando los datos
