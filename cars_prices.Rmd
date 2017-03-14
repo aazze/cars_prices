@@ -2,7 +2,7 @@
 
 
 ## Introducción y análisis descriptivo
-```{r}
+```{r echo=FALSE}
  # Aqui va el código R
  # Y tambien imágenes
  a<-rnorm(20, mean=0, sd=1)
